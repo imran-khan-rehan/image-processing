@@ -1,0 +1,15 @@
+// #ifndef HW2_H
+//#define HW2_H
+
+// Define error codes
+#define MISSING_ARGUMENT 1
+#define UNRECOGNIZED_ARGUMENT 2
+#define DUPLICATE_ARGUMENT 3
+#define INPUT_FILE_MISSING 4
+#define OUTPUT_FILE_UNWRITABLE 5
+#define C_ARGUMENT_MISSING 6
+#define C_ARGUMENT_INVALID 7
+#define P_ARGUMENT_INVALID 8
+#define R_ARGUMENT_INVALID 9
+
+//#endif /* HW2_H */

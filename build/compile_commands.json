@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/gcc -I/workspaces/cse220_hw2/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu11 -o CMakeFiles/hw2_main.dir/src/hw2_main.c.o -c /workspaces/cse220_hw2/src/hw2_main.c",
+  "file": "/workspaces/cse220_hw2/src/hw2_main.c"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_aux.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_aux.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_aux.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_combined_operations.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_combined_operations.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_combined_operations.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_combined_operations_valgrind.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_combined_operations_valgrind.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_combined_operations_valgrind.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_copy_paste.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_copy_paste.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_copy_paste.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_copy_paste_valgrind.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_copy_paste_valgrind.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_copy_paste_valgrind.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_load_save.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_load_save.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_load_save.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_load_save_valgrind.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_load_save_valgrind.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_load_save_valgrind.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_printing.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_printing.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_printing.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_printing_valgrind.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_printing_valgrind.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_printing_valgrind.cpp"
+},
+{
+  "directory": "/workspaces/cse220_hw2/build",
+  "command": "/usr/bin/g++ -I/workspaces/cse220_hw2/include -I/workspaces/cse220_hw2/tests/include -g -Wall -Wextra -Wshadow -Wpedantic -Wdouble-promotion -Wformat=2 -Wundef -Werror -std=gnu++14 -o CMakeFiles/run_all_tests.dir/tests/src/tests_validate_args.cpp.o -c /workspaces/cse220_hw2/tests/src/tests_validate_args.cpp",
+  "file": "/workspaces/cse220_hw2/tests/src/tests_validate_args.cpp"
+}
+]

@@ -1,0 +1,4 @@
+/workspaces/cse220_hw2/build/CMakeFiles/hw2_main.dir
+/workspaces/cse220_hw2/build/CMakeFiles/run_all_tests.dir
+/workspaces/cse220_hw2/build/CMakeFiles/edit_cache.dir
+/workspaces/cse220_hw2/build/CMakeFiles/rebuild_cache.dir

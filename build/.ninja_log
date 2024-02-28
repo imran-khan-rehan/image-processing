@@ -1,0 +1,14 @@
+# ninja log v5
+4	1552	1708875838571404142	CMakeFiles/run_all_tests.dir/tests/src/tests_combined_operations.cpp.o	8e75fab457cdf139
+1	1858	1708788827562285230	CMakeFiles/run_all_tests.dir/tests/src/tests_aux.cpp.o	e2ad8738f6e61618
+3	1535	1708789131538284517	CMakeFiles/run_all_tests.dir/tests/src/tests_combined_operations_valgrind.cpp.o	8958ee382d506c98
+4	1857	1708892524773422339	CMakeFiles/run_all_tests.dir/tests/src/tests_printing.cpp.o	d456cca26ed3d04f
+3	1594	1708892591445424951	CMakeFiles/run_all_tests.dir/tests/src/tests_printing_valgrind.cpp.o	fe259f67313922fc
+4	1632	1708875838651404144	CMakeFiles/run_all_tests.dir/tests/src/tests_copy_paste.cpp.o	1c28bc2333fecc6d
+4	2078	1708892591925424970	CMakeFiles/run_all_tests.dir/tests/src/tests_validate_args.cpp.o	2d35b820f4cabeee
+4	2719	1708892071817404588	CMakeFiles/run_all_tests.dir/tests/src/tests_copy_paste_valgrind.cpp.o	be40aa7ed2b4cdd5
+4	1673	1708892524589422331	CMakeFiles/run_all_tests.dir/tests/src/tests_load_save_valgrind.cpp.o	6bd4c60e8920e349
+2078	2564	1708892592413424989	run_all_tests	703d2f5e48f063ed
+4	2731	1708892071829404589	CMakeFiles/run_all_tests.dir/tests/src/tests_load_save.cpp.o	df9e70a070d3ef28
+4	187	1708995723936930368	CMakeFiles/hw2_main.dir/src/hw2_main.c.o	7dfc883b339ff9f
+187	400	1708995724148930376	hw2_main	d09e37acd63a67a5
